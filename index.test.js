@@ -1,0 +1,1 @@
+const isAnagrams = require("./index");
